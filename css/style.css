@@ -1,0 +1,30 @@
+body
+{
+    background-color: purple;
+}
+/* #st
+{
+    color: black;
+    border-style: ridge;
+    
+} */
+.fst{
+    color: beige;
+    border-radius: 20px;
+    border-color: black;
+    border-style: ridge;
+}
+.box
+{
+    color: pink;
+    border-color: rgb(255, 147, 128);
+    border-style: groove;
+    border-radius: 5%;
+    border-spacing: 20%;
+    height: 5cm;
+}
+.snd
+{
+    border: 10px;
+    border-style:groove;
+}
