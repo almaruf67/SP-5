@@ -1,8 +1,43 @@
+body
+{
+    background-color: #57e34a;
+    margin: 20px 0;
+    font-family: sans-serif;
+}
+
+header
+{
+    margin: 50px;
+    
+}
+header>#up{
+    font-size: 2em;
+}
 .log{
+    width: 80%;
+    margin: 0 auto;
     padding: 20px;
     font-family: sans-serif;
     font-weight: bold;
+    background-color: aliceblue;
 
+}
+
+main
+{   
+    padding: 40px;
+    overflow: hidden;
+}
+section{
+    width: 65%;
+    float: left;
+}
+aside{
+    background: rgb(245, 242, 55);
+    margin-left: 50px;
+    width: 25%;
+    float: right;
+    border-radius: 10%;
 }
 
 #pic
@@ -18,6 +53,19 @@
 #fot
 {
 
-    padding: 5%;
+    padding: 20;
+    border-top: 2px solid rgba(11, 15, 238, 0.795);
+    margin-top: auto;
     text-align: center;
+}
+h4
+{    
+    margin: 0% auto;
+}
+.lin
+{     
+    padding: 20px;
+}
+.a_img{
+    width: 100%;
 }
